@@ -1,5 +1,10 @@
 import {
-    Directive, HostListener, ComponentRef, ViewContainerRef, Input, ComponentFactoryResolver,
+    Directive, 
+    HostListener, 
+    ComponentRef, 
+    ViewContainerRef, 
+    Input, 
+    ComponentFactoryResolver,
     ComponentFactory
 } from "@angular/core";
 import {TooltipContent} from "./TooltipContent";

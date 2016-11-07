@@ -61,5 +61,8 @@
     "tslint-stylish": "^2.1.0-beta",
     "typescript": "^2.0.3",
     "zone.js": "^0.6.25"
+  },
+  "dependencies": {
+    "ng2-popover": "0.0.11"
   }
 }
